@@ -1,0 +1,24 @@
+_repo: Ireland-under-the-Stuarts-and-During-the-Interregnum-Vol-2-of-3-1642-1660_53916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagwell, Richard
+    birthdate: 1840
+    deathdate: 1918
+    gutenberg_agent_id: '41492'
+    url: http://www.gutenberg.org/2009/agents/41492
+description: ''
+gutenberg_issued: '2017-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- History -- 17th century'
+- GITenberg
+title: Ireland under the Stuarts and During the Interregnum, Vol. 2 (of 3), 1642-1660
+url: http://www.gutenberg.org/ebooks/53916
